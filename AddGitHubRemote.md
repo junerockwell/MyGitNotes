@@ -1,4 +1,4 @@
-# Add GitHub Remote
+# Add GitHub Remote (Alternative)
 
 Whenever I make a new repo in GitHub, it doesn't always give me the page with git commands on how to connect my local repo to the remote one. And when I try to, there are a few things preventing me. So this is my notes for when the usual doesn't work. This is my notes on what I remember doing.
 
